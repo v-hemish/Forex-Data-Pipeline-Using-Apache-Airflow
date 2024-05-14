@@ -22,7 +22,7 @@ The Airflow DAG automates the process of downloading forex rates, processing the
 ![Flow of DAG](assets/airflow-dag.png)
 
 ### Working Video
-[Watch the working video](link/to/your/working/video)
+[Watch the working video](assets/slack-image.mov)
 
 ### Slack Notification
 ![Slack Notification](assets/project-working.png)
