@@ -1,1 +1,2 @@
-# Forex-Data-Pipeline-Using-Apache-Airflow
+# airflow-materials
+Materials for the course: The Hands-On Guide
