@@ -19,7 +19,7 @@ The Airflow DAG automates the process of downloading forex rates, processing the
 
 ## DAG Structure
 
-![Flow of DAG](path/to/your/dag/flow/image.png)
+![Flow of DAG](assets/airflow-dag.png)
 
 ### Working Video
 [Watch the working video](link/to/your/working/video)
